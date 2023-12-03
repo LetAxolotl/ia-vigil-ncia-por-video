@@ -1,0 +1,33 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start , #numberOfObjects , #start
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    border: 2px solid rgb(255, 185, 232);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(243, 124, 203);
+}
+
+.copyrightFooter {
+    position: fixed;
+    color: pink;
+    bottom: 0;
+    background-color: rgb(255, 144, 162);
+    line-height: 2;
+    text-align: center;
+}
